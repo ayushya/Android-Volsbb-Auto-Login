@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VOLSBB AutoLogin</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="autologin">Enable Auto Login on Wifi</string>
+    <string name="saveandlogin"><![CDATA[Save & Login]]></string>
+    <string name="logout">Logout</string>
+    <string name="Volsbb">VOLSBB</string>
+    <string name="about">About</string>
+</resources>
